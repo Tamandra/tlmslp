@@ -98,5 +98,24 @@ Here is the current catalogue: (You can Ctrl + F Search Here)
   - Vocalise Violin
   - Vocalise Piano Score
   - Vocalise
-
+- Sarasate
+  - Spanish Dances 5&6 Violin
+  - Dance Espagnoles 1&2 Piano
+  - Dance Espagnoles 3&4 Piano
+  - Dance Espagnoles 1&2 Violin
+  - Dance Espagnoles 3&4 Violin
+- Shostakovich
+  - Shostakovich Duet no.1 Musescore Project
+  - Shostakovich Duet no.2 Musescore Project
+- Sibelius
+  - Sibelius Violin Concerto
+- Tchiakovsky
+  - Tchiakovsky Violin Concerto
+  - Tchiakovsky.jpg
+- Wagner
+  - Albumblatt Score
+  - Albumblatt Violin
+  - Album Leaf Violin
+  - Album Leaf Piano
+- 
 
