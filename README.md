@@ -1,4 +1,4 @@
-# tlmslp
+# TLMSLP
 Tim Li Music Score Library Project (imslp ripoff)
 
 **Welcome to my IMSLP Ripoff**
