@@ -117,5 +117,13 @@ Here is the current catalogue: (You can Ctrl + F Search Here)
   - Albumblatt Violin
   - Album Leaf Violin
   - Album Leaf Piano
-- 
-
+- Weiniawski
+  - Peters Edition Polonaise no.1 in D major Violin
+  - Peters Edition Polonaise no.1 in D major Piano
+  - Wieniawski Op.18 Etudes and Caprices (For Two Violins)
+  - Wieniawski Variations on an Original Theme Score
+  - Wieniawski Variations on an Original Theme Violin
+  - Scherzo Tarantelle Piano
+  - Scherzo Tarantelle Violin
+- Ysaye
+  - Sonata for Two Violins Score
