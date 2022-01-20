@@ -24,6 +24,15 @@ Here is the current catalogue: (You can Ctrl + F Search Here)
   - Bruch Violin Concerto No.1 Piano
   - Bruch Violin Concerto No.1 Violin
 - Dvorak
+  - String Quintet No.2 Op.77
+    - Bass
+    - Cello
+    - All Parts
+    - Score
+    - Title Page
+    - Viola
+    - Violin 1
+    - Violin 2
   - Dvorak Humoresque
   - Dvorak Humoresque No.7
 - Elgar
